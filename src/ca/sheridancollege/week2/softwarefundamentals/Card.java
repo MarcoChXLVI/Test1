@@ -26,7 +26,8 @@ public class Card
         suit = givenSuit;
         value = givenValue;
     }
-
+    // mas comentarios
+    //practicando
     /**
      * @return the suit
      */
